@@ -5,8 +5,11 @@ Solo copia y pega el código 😉
 
 
 Linea         Descripción
+
 ```5094```    Empieza la Logica
+
 ```5812```    Matriz
+
 ```6193```    Clasificacion (Reflexiva, Simetrica, etc)
 
 
